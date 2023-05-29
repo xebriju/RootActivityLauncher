@@ -1,6 +1,2 @@
 name: Build Android release APK when create new tag
-on:
-  push:
-    branches:
-      - master
 uses: kyze8439690/action-release-releaseapk@1.0.0
